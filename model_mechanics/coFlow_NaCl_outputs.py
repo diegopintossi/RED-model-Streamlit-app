@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Fri Oct 16 16:35:33 2020
@@ -6,8 +5,6 @@ Created on Fri Oct 16 16:35:33 2020
 @author: diegopintossi
 
 RED model (J. Veerman thesis, chapter 8)
-(N cell pair)
-
 
 All units converted to SI (e.g., cm --> m)
 
@@ -18,8 +15,6 @@ CO-FLOW configuration
          RW -----y---->
          
             |----L----|
-
-Forward Euler is used to solve the ODEs.
 
   @ x = 0, y = 0
   @ x = L, y = L
