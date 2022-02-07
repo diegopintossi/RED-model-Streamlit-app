@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Streamlit app running locally to perform simulations with a RED model (co-flow,
