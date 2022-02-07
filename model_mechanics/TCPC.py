@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 21 11:34:35 2019
-@author: dpin
-
 TCPC model, based on Ge et al. 2007 (DOI: 10.1021/je060451k)
 Three characteristic parameters correlation
 
@@ -10,8 +7,6 @@ Empirical fitting based on experimental data, valid in wide range of ionic stren
 Similar behavior to Pitzer equations
 
 DPIN, 2019-06-21
-DPIN, 2019-07-11 (added osmotic coeff.)
-
 """
 
 import numpy as np
