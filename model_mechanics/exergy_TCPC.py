@@ -1,16 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 19 18:02:58 2019
-
-@author: dpin
-
 DPIN, 2019-06-21
 
 Script to calculate the exergy of a RED system
-Based on the Excel spreadsheet of CSIM
 
-This version is limited to NaCl solutions
-
+(this version is limited to NaCl solutions)
 """
 
 import numpy as np
